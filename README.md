@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **Natural Language Processing, Deep Learning, Reinforcement Learning, Probabilistic Robotics and Mathematical Finance**
 - 🔭 I’m currently working on projects in **Natural Language Processing** at **LCS2-IITD**
-- 💬 Ask me about **Probability and Stats, Puzzles, Optimisation and NLP**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, Probability and Stats**
 
 - 📫 Reach me at **vaibhavseth.iitd@gmail.com**
 
