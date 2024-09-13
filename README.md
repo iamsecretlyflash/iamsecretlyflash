@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsecretlyflash&label=Profile%20views&color=0e75b6&style=flat" alt="iamsecretlyflash" /> </p>
 
-- 🌱 I’m currently learning about **Natural Language Processing, Deep Learning, Reinforcement Learning, Probabilistic Robotics and Mathematical Finance**
+- 🌱 I’m currently learning about **Natural Language Processing, Deep Learning, Reinforcement Learning, Probabilistic Robotics and Mathematical Finance with deep interest in Options**
 - 🔭 I’m currently working on projects in **Natural Language Processing** at **LCS2-IITD**
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Probability and Stats**
 
