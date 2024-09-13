@@ -1,6 +1,6 @@
 
 <h1 align="center">Bello!!! I am Vaibhav Seth</h1>
-<h2 align="center">Third Year Mathematics and Computing Undergraduate at IIT Delhi</h3>
+<h2 align="center">Final Year Mathematics and Computing Undergraduate at IIT Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsecretlyflash&label=Profile%20views&color=0e75b6&style=flat" alt="iamsecretlyflash" /> </p>
 
