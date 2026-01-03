@@ -1,14 +1,16 @@
 
-<h1 align="center">Bello!!! I am Vaibhav Seth</h1>
-<h2 align="center">Final Year Mathematics and Computing Undergraduate at IIT Delhi</h3>
+<h1 align="center">Hey!!! I am Vaibhav Seth</h1>
+<h2 align="center"> Quantitative Researcher at Graviton Research Capital</h2>
+<h2 align="center">B.Tech in Mathematics and Computing from IIT Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsecretlyflash&label=Profile%20views&color=0e75b6&style=flat" alt="iamsecretlyflash" /> </p>
 
-- 🌱 I’m currently learning about **Natural Language Processing, Deep Learning, Reinforcement Learning, Probabilistic Robotics and Mathematical Finance with deep interest in Options**
-- 🔭 I’m currently working on projects in **Natural Language Processing** at **LCS2-IITD**
+- I am currently working as a Quant at Graviton where I work on finding trading signals in the stock market and try and make some money.
+- 🔭 During college I was working on projects in **Natural Language Processing** at **LCS2-IITD** and have papers as well.
+- 🌱 I like to stay updated with the lates development in **Natural Language Processing, Deep Learning, Reinforcement Learning, Probabilistic Robotics and Mathematical Finance**
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Probability and Stats**
 
-- 📫 Reach me at **vaibhavseth.iitd@gmail.com**
+- 📫 Reach me at **vaibhavseth2283@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
